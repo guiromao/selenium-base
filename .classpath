@@ -35,41 +35,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-api-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-api-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-chrome-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-chrome-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-chromium-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-chromium-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v85-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v85-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v93-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v93-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v94-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v94-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v95-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-devtools-v95-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-edge-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-edge-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-firefox-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-firefox-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-firefox-xpi-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-firefox-xpi-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-http-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-http-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-ie-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-ie-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-java-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-java-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-json-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-json-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-opera-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-opera-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-remote-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-remote-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-safari-driver-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-safari-driver-4.0.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-support-4.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/gar/Documents/JARs/selenium/selenium-support-4.0.0-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
